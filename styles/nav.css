@@ -30,7 +30,7 @@
 .bt-menu.bt-menu-open {
 	height: 100%;
 	border-width: 0px 0px 0px 115px;
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0,0,0,0.6);
 	-webkit-transition: border-width 0.3s, background-color 0.3s;
 	transition: border-width 0.3s, background-color 0.3s;
 }
@@ -38,6 +38,7 @@
 .bt-overlay {
 	position: absolute;
 	width: 100%;
+	z-index: -1;
 }
 
 .bt-menu-open .bt-overlay {
