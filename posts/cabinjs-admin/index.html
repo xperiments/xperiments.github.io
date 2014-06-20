@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html>
 
@@ -64,86 +65,48 @@
 
 
 
-<div class="blog-cover" style="position:relative; background-image: url(/images/header.jpg);background-size: cover;background-position: center;">
+
+<div class="blog-cover" style="position:relative; background-image: url(/images/xperiments_header1.gif);background-size: cover;background-position: center;">
     <div class="xp-cover-gradient"></div>
+    <header class="xp-post-info">
+        <span href="/posts/cabinjs-admin/">@xperiments <time datetime="Fri Jun 20 2014 00:00:00 GMT+0200 (CEST)"> June 20, 2014</time>.</span><br/>
+    </header>
     <header class="xp-cover xp-antialiased">
-        <h1 class="post-title">Blog Archives</h1>
-        <div class="xp-cover-arrow">v</div>
+        <h1 class="post-title">CabinJS-Admin</h1>
+        <h3>Developed a simple CabinJS CMS</h3> 
+		<h4><svg style="width:22px; height:22px; fill:#FFF; margin-bottom:-6px;" viewBox="0 0 32 32"><use xlink:href="#tag"></use></svg> Blog,Typescript</h4> 
+		<div class="xp-cover-arrow">v</div>
     </header>
 </div>
-<script>
-    var posts = [
-        
-        {"title":"CabinJS-Admin","date":"2014-06-19T22:00:00.000Z","description":"Developed a simple CabinJS CMS","image":"/images/xperiments_header1.gif","categories":["Blog","Typescript"],"sourcePath":"posts/cabinjs-admin.md","lastModified":"2014-06-20T11:51:47.000Z","url":"posts/cabinjs-admin/"}
-        
-        {"title":"Typescript BarcelonaJS","date":"2014-06-18T22:00:00.000Z","description":"Video & slides of my talk at @BarcelonaJS","image":"/images/1930733391.jpg","categories":["Typescript","Talks"],"sourcePath":"posts/typescript-barcelonajs.md","lastModified":"2014-06-20T11:41:14.000Z","url":"posts/typescript-barcelonajs/"}
-        
-        {"title":"Welcome","date":"2014-05-31T22:00:00.000Z","description":"to ()=>xperiments.io","image":"/images/xperiments_header.gif","categories":["Blog"],"sourcePath":"posts/welcome.md","lastModified":"2014-06-19T23:42:39.000Z","url":"posts/welcome/"}
-        
-    ]
 
-</script>
+<!-- header class="site-header">
+    <a class="blog-logo" href="/"><img src="/images/logo.svg" alt="Blog Logo" /></a>
+</header -->
+<main class="site-content" role="main">
 
-<main class="site-content post" role="main">
+    <article class="post tag-text tag-formatting">
 
 
-		
-		  
+        <section class="post-content">
+
+                    <p>I am publishing this blog with the help of <a href="http://www.cabinjs.com">CabinJS</a> a simple and extensible static site generator powered by Grunt.</p>
+<p>Actually it is working fine but I found that the workflow is a little teddious.</p>
+<p>I needed to manage and edit my posts in a more visual way, so I decided to make a simple CMS with my requeriments.</p>
+<p><img src="/images/posts/caninjs-admin/cabinjs-admin-screenshot.gif" alt="image"> </p>
+<p>Acutually is a work in progress... anyway I am using it to actually publish this blog.</p>
+<p>Technically speaking it is composed of 2 main components:</p>
+<ul>
+<li>Backend Connect Middleware to power the server side</li>
+<li>HTML + AngularJS + Typescript + Bootstrap to power the front end</li>
+</ul>
+<p>You can find more info about it at: <a href="https://github.com/xperiments/cabinjs-admin"> Github CabinJS</a></p>
 
 
-
-
-        <section class="author-card cf">
-            <div class="author-text" style="float: left;">
-                <span><time datetime="Fri Jun 20 2014 00:00:00 GMT+0200 (CEST)"> June 20, 2014</time></span><br/>
-                <span class="author-name"><a href="/posts/cabinjs-admin/">CabinJS-Admin</a></span>
-                
-
-                <p class="xp-post-archive-desc">Developed a simple CabinJS CMS</p>
-
-                
-            </div>
         </section>
-
-		
-		  
-
-
-
-
-        <section class="author-card cf">
-            <div class="author-text" style="float: left;">
-                <span><time datetime="Thu Jun 19 2014 00:00:00 GMT+0200 (CEST)"> June 19, 2014</time></span><br/>
-                <span class="author-name"><a href="/posts/typescript-barcelonajs/">Typescript BarcelonaJS</a></span>
-                
-
-                <p class="xp-post-archive-desc">Video &amp; slides of my talk at @BarcelonaJS</p>
-
-                
-            </div>
-        </section>
-
-		
-		  
-
-
-
-
-        <section class="author-card cf">
-            <div class="author-text" style="float: left;">
-                <span><time datetime="Sun Jun 01 2014 00:00:00 GMT+0200 (CEST)"> June 01, 2014</time></span><br/>
-                <span class="author-name"><a href="/posts/welcome/">Welcome</a></span>
-                
-
-                <p class="xp-post-archive-desc">to ()=&gt;xperiments.io</p>
-
-                
-            </div>
-        </section>
-
-		
+    </article>
 
 </main>
+
 
     <footer class="site-footer">
         <div class="inner">
