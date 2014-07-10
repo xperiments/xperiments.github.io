@@ -65,15 +65,15 @@
 
 
   
-<div class="blog-cover" style="position:relative; background-image: url(/images/xperiments_header1.gif);background-size: cover;background-position: center;">
+<div class="blog-cover" style="position:relative; background-image: url(/images/header.jpg);background-size: cover;background-position: center;">
     <div class="xp-cover-gradient"></div>
     <header class="xp-post-info">
-        <span href="/posts/cabinjs-admin/">@xperiments <time datetime="Fri Jun 20 2014 00:00:00 GMT+0200 (CEST)"> June 20, 2014</time>.</span><br/>
+        <span href="/posts/typescript-rethinking-strings-events/">@xperiments <time datetime="Mon Jul 07 2014 00:00:00 GMT+0200 (CEST)"> July 07, 2014</time>.</span><br/>
     </header>
     <header class="xp-cover xp-antialiased">
-        <h1 class="post-title">CabinJS-Admin</h1>
-        <h3>Developed a simple CabinJS CMS</h3> 
-		<h4><svg style="width:22px; height:22px; fill:#FFF; margin-bottom:-6px;" viewBox="0 0 32 32"><use xlink:href="#tag"></use></svg> Blog,Typescript</h4> 
+        <h1 class="post-title">Typescript: Rethinking &quot;Strings&quot; Events</h1>
+        
+		<h4><svg style="width:22px; height:22px; fill:#FFF; margin-bottom:-6px;" viewBox="0 0 32 32"><use xlink:href="#tag"></use></svg> Typescript</h4> 
 		<div class="xp-cover-arrow">v</div>
     </header>
 </div>
@@ -88,18 +88,76 @@
 
         <section class="post-content">
 
-                    <p>I am publishing this blog with the help of <a href="http://www.cabinjs.com">CabinJS</a> a simple and extensible static site generator powered by Grunt.</p>
-<p>Actually it is working fine but I found that the workflow is a little teddious.</p>
-<p>I needed to manage and edit my posts in a more visual way, so I decided to make a simple CMS with my requeriments.</p>
-<p><img src="/images/posts/caninjs-admin/cabinjs-admin-screenshot.gif" alt="image"> </p>
-<p>Acutually is a work in progress... anyway I am using it to actually publish this blog.</p>
-<p>Technically speaking it is composed of 2 main components:</p>
-<ul>
-<li>Backend Connect Middleware to power the server side</li>
-<li>HTML + AngularJS + Typescript + Bootstrap to power the front end</li>
-</ul>
-<p>You can find more info about it at: <a href="https://github.com/xperiments/cabinjs-admin"> Github CabinJS</a></p>
+                    <p>Lately I have found repeating myself the same process while working with static events names in Typescript.</p>
+<p>Normally I declare the static events properties like this:</p>
+<pre><code class="language-javascript">class EventTest
+{
+    static SOME_EVENT:string = "EventTest.SOME_EVENT";
+}</code></pre><p>But what happens if we like to <strong>refactor</strong> the class name to &quot;RefactoredEventTest&quot; ? ...</p>
+<pre><code class="language-javascript">class RefactoredEventTest
+{
+    static SOME_EVENT:string = "RefactoredEventTest.SOME_EVENT";
+}</code></pre><p><strong>Manually &quot;refactoring&quot; the static strings is not optimal and also is error prone.</strong></p>
+<p>To <strong>solve</strong> this we can re-assign the value of the property <strong>at runtime</strong> to the &quot;ClassName.PROPERTY_NAME&quot; pattern using a simple helper class:</p>
+<pre><code class="language-typescript">// StaticEvent Helper Class
+class StaticEvent
+{
+    static init(EventClass:any)
+    {
+        Object.keys(EventClass).forEach((key:string)=> {
+            EventClass[key] = [ StaticEvent.className(EventClass), key ].join('.')
+        })
+    }
 
+    static className(cls:any):string
+    {
+        var funcNameRegex = /function (.{1,})\(/;
+        var results = (funcNameRegex).exec(cls.toString());
+        return (results && results.length > 1) ? results[1] : "";
+    }
+}
+
+// Simple Event Class Processed at runtime
+class EventTest
+{
+    static SOME_EVENT:string = null;
+}
+// Initlialize it 
+StaticEvent.init( EventTest );
+console.log( EventTest.SOME_EVENT );</code></pre><div xp-code-play="typescript"><pre>// StaticEvent Helper Class
+class StaticEvent
+{
+    static init(EventClass:any)
+    {
+        Object.keys(EventClass).forEach((key:string)=> {
+            EventClass[key] = [ StaticEvent.className(EventClass), key ].join('.')
+        })
+    }
+
+    static className(cls:any):string
+    {
+        var funcNameRegex = /function (.{1,})\(/;
+        var results = (funcNameRegex).exec(cls.toString());
+        return (results && results.length > 1) ? results[1] : "";
+    }
+}
+
+// Simple Event Class Processed at runtime
+class EventTest
+{
+    static SOME_EVENT:string = null;
+}
+// Initlialize it 
+StaticEvent.init( EventTest );
+console.log( EventTest.SOME_EVENT );</pre></div><p>Now printing the SOME_EVENT property of the class &quot;EventTest&quot; will output:</p>
+<pre><code class="language-javascript">console.log( EventTest.SOME_EVENT );
+// outputs: "EventTest.SOME_EVENT"</code></pre><p>If later we like to refactor the <strong>EventTest</strong> class as <strong>RefactoredEventClass</strong> we only need to change the StaticEvent.init() method call as:</p>
+<pre><code class="language-javascript">class RefactoredEventClass
+{
+    static SOME_EVENT:string = null;
+}
+StaticEvent.init( EventTest );</code></pre><p>Printing the SOME_EVENT property of the renamed class &quot;RefactoredEventClass&quot; will output:</p>
+<pre><code class="language-javascript">RefactoredEventClass.SOME_EVENT;</code></pre>
 
         </section>
     </article>
@@ -109,7 +167,7 @@
 
 
 <nav class="pagination" role="pagination">
-    <span class="page-number">Page 2 of 4</span>
+    <span class="page-number">Page 2 of 5</span>
 
     <nav class="page-nav cf">
 
@@ -126,6 +184,9 @@
             
             
               <a href="/page/2/" class="older-posts"> &#8592; Older</a>
+            
+          
+            
             
           
             
