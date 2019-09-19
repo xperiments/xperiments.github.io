@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>PSX-Place</title>
+    <description>PSX Place - The place for Playstation Hacking,  Homebrew, Jailbreaking &amp;  Scene News( </description>
+    <pubDate>Wed, 18 Sep 2019 21:49:17 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2019 21:49:17 +0000</lastBuildDate>
+    <generator>PSX-Place</generator>
+    <link>https://www.psx-place.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.psx-place.com/forums/-/index.rss"/>
+    <item>
+      <title>4.85 CFW &amp; PS3HEN (Homebrew / Tools / CFW Releases / PS3HEN Updates)</title>
+      <pubDate>Wed, 18 Sep 2019 21:48:41 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/4-85-cfw-ps3hen-homebrew-tools-cfw-releases-ps3hen-updates.25913/</link>
+      <guid>https://www.psx-place.com/threads/4-85-cfw-ps3hen-homebrew-tools-cfw-releases-ps3hen-updates.25913/</guid>
+      <author>invalid@example.com (STLcardsWS)</author>
+      <dc:creator>STLcardsWS</dc:creator>
+      <content:encoded><![CDATA[<div style="text-align: center"><b>When a firmware update arises like 4.85, there are some things that require updates, this thread attempts to track anything related to the 4.85 Update / updated tools / homebrew/ CFW releases / PS3HEN (4.85) Updates and more.. Keep bookmarked and checkback often. Found something we have not added. Simple give myself an alert by typing as follows &gt;&gt;&gt; &quot; <a href="https://www.psx-place.com/members/2/" class="username" data-user="2, @STLcardsWS">@STLcardsWS</a> &quot;</b>&#8203;</div><br />
+<div style="text-align: center">
+
+	<a href="https://www.psx-place.com/attachments/19748/" target="_blank">View attachment 19748</a>
+	
+&#8203;</div>
+    			<div class="tabsBb">
+	    			<ul data-panes="#tabContainer_1568843357 &gt; li" class="tabs mainTabs Tabs">
+	    				<li class="bbTab"><a href="#tab_1568843357">4.85 Exploits</a></li>
+
+	    			</ul>
+	    			<ul id="tabContainer_1568843357" class="tabsContent">
+	    				<li class="bbTabContent" id="tab_1568843357"><br />
+<ul>
+<li>...</li>
+</ul></li>
+
+	    			</ul>
+    			</div>
+    	<br />
+<br />
+<a href="https://www.psx-place.com/threads/4-85-cfw-ps3hen-homebrew-tools-cfw-releases-ps3hen-updates.25913/" class="internalLink">4.85 CFW &amp; PS3HEN (Homebrew / Tools / CFW Releases / PS3HEN Updates)</a>]]></content:encoded>
+      <slash:comments>148</slash:comments>
+    </item>
+    <item>
+      <title>[Research] Modifying the Coldboot/Gameboot Sequence (custom_render_plugin.sprx/rco)</title>
+      <pubDate>Wed, 18 Sep 2019 21:45:49 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/research-modifying-the-coldboot-gameboot-sequence-custom_render_plugin-sprx-rco.25952/</link>
+      <guid>https://www.psx-place.com/threads/research-modifying-the-coldboot-gameboot-sequence-custom_render_plugin-sprx-rco.25952/</guid>
+      <author>invalid@example.com (DeViL303)</author>
+      <dc:creator>DeViL303</dc:creator>
+      <content:encoded><![CDATA[<b><span style="text-decoration: underline">Update 02/09/2019 </span></b>: Got some better mods on the go now. See <a href="https://www.psx-place.com/threads/research-modifying-the-coldboot-gameboot-sequence-custom_render_plugin-sprx-rco.25952/page-6" class="internalLink">HERE</a><br />
+<iframe width="500" height="300" src="https://www.youtube.com/embed/Ou8soyYG1_M?wmode=opaque" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="500" height="300" src="https://www.youtube.com/embed/E10zKl07-D8?wmode=opaque" frameborder="0" allowfullscreen></iframe><br />
+<br />
+<br />
+<br />
+<b><span style="text-decoration: underline">Original post from 30/08/2019:</span></b><br />
+I have been messing with the custom_render_plugin.rco for a while, and its kind of interesting. I am not sure if this is already known or has been done before,...<br />
+<br />
+<a href="https://www.psx-place.com/threads/research-modifying-the-coldboot-gameboot-sequence-custom_render_plugin-sprx-rco.25952/" class="internalLink">[Research] Modifying the Coldboot/Gameboot Sequence (custom_render_plugin.sprx/rco)</a>]]></content:encoded>
+      <slash:comments>252</slash:comments>
+    </item>
+    <item>
+      <title>Mortal Kombat XL SKIN MOD (POC)</title>
+      <pubDate>Wed, 18 Sep 2019 20:37:57 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/mortal-kombat-xl-skin-mod-poc.26185/</link>
+      <guid>https://www.psx-place.com/threads/mortal-kombat-xl-skin-mod-poc.26185/</guid>
+      <author>invalid@example.com (Grim Doe)</author>
+      <dc:creator>Grim Doe</dc:creator>
+      <content:encoded><![CDATA[Happy Friday the 13th to all of Ya&#039;ll<br />
+I&#039;m back just to bring a bit of info on MK X/XL Work that I have been working off and on with,<br />
+Since My last (Partial &amp; Full) mesh swap Mods On MKX/XL<br />
+Big Thanks to (Life and Death)<br />
+<br />
+This time around I have managed to actually change the appearance of a Fighter<br />
+No&#039;t by much, This is still real early doe&quot;<br />
+I would also like to say a Big Thanks to DKDave for his Help on this.<br />
+<br />
+This is still early work I am experimenting with<br />
+Hope to have something out for...<br />
+<br />
+<a href="https://www.psx-place.com/threads/mortal-kombat-xl-skin-mod-poc.26185/" class="internalLink">Mortal Kombat XL SKIN MOD (POC)</a>]]></content:encoded>
+      <slash:comments>19</slash:comments>
+    </item>
+    <item>
+      <title>Audio through usb headphones</title>
+      <pubDate>Wed, 18 Sep 2019 20:33:27 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/audio-through-usb-headphones.26278/</link>
+      <guid>https://www.psx-place.com/threads/audio-through-usb-headphones.26278/</guid>
+      <author>invalid@example.com (fuasd)</author>
+      <dc:creator>fuasd</dc:creator>
+      <content:encoded><![CDATA[Is there a way to connect usb headphones to my ps3 and get audio?<br />
+<br />
+im on cfw 4.85]]></content:encoded>
+    </item>
+    <item>
+      <title>[Research]PS2 emulator configuration on PS4</title>
+      <pubDate>Wed, 18 Sep 2019 20:23:06 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/research-ps2-emulator-configuration-on-ps4.16131/</link>
+      <guid>https://www.psx-place.com/threads/research-ps2-emulator-configuration-on-ps4.16131/</guid>
+      <author>invalid@example.com (kozarovv)</author>
+      <dc:creator>kozarovv</dc:creator>
+      <content:encoded><![CDATA[<span style="font-size: 18px">Ps2 emulation on PS4 is handled in very different way comparing to PS3. Emulator seems to be more open for configurations. We can basically change anything we want. Here comes kudos to developers, as many of this options are here to bring you 1:1 emulation. They implemented settings that can change almost everything in way how game is recompiled. Thread, and first post are constantly updated with knowledge that I&#039;m gaining right now. </span><br />
+<br />
+<b><span style="color: #ff0000">1.</span> Custom...</b><br />
+<br />
+<a href="https://www.psx-place.com/threads/research-ps2-emulator-configuration-on-ps4.16131/" class="internalLink">[Research]PS2 emulator configuration on PS4</a>]]></content:encoded>
+      <slash:comments>737</slash:comments>
+    </item>
+    <item>
+      <title>(Update) PS3 HFW (Hybrid Firmware) 4.85.1 -  PS3Xploit HAN &amp; Flash Tools Restored for 4.85 OFW users</title>
+      <pubDate>Wed, 18 Sep 2019 20:20:10 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-85-1-ps3xploit-han-flash-tools-restored-for-4-85-ofw-users.23094/</link>
+      <guid>https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-85-1-ps3xploit-han-flash-tools-restored-for-4-85-ofw-users.23094/</guid>
+      <author>invalid@example.com (Joonie)</author>
+      <dc:creator>Joonie</dc:creator>
+      <content:encoded><![CDATA[<div style="text-align: center"><b><span style="font-family: 'Trebuchet MS'"><span style="color: #ff0000"><i><span style="font-size: 18px">UPDATE2 (April 27 2019) nonCFW PS3 MODELS There is now a PS3 HEN that enables HOMEBREW !!!!!!!! &gt;&gt; <a href="https://www.psx-place.com/threads/ps3hen-a-homebrew-enabler-more-for-superslim-all-noncfw-ps3-consoles.23817/" class="internalLink">See Link</a></span></i></span></span></b><br />
+&#8203;</div> <br />
+<div style="text-align: center"><span style="text-decoration: line-through">The new HEN requires this 4.84 Hybrid Firmware (HFW).</span><br />
+4.85 has been released here by...&#8203;</div><br />
+<a href="https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-85-1-ps3xploit-han-flash-tools-restored-for-4-85-ofw-users.23094/" class="internalLink">(Update) PS3 HFW (Hybrid Firmware) 4.85.1 -  PS3Xploit HAN &amp; Flash Tools Restored for 4.85 OFW users</a>]]></content:encoded>
+      <slash:comments>1447</slash:comments>
+    </item>
+    <item>
+      <title>PS2 Slim Internal HDD</title>
+      <pubDate>Wed, 18 Sep 2019 20:10:03 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/ps2-slim-internal-hdd.24740/</link>
+      <guid>https://www.psx-place.com/threads/ps2-slim-internal-hdd.24740/</guid>
+      <author>invalid@example.com (ISAK.M)</author>
+      <dc:creator>ISAK.M</dc:creator>
+      <content:encoded><![CDATA[Nowadays I have switched from being into PS3 stuff to being into PS2, where my interest in console modding and exploiting stuff began.<br />
+Whatever, my question is... Is it possible to connect a 2.5&quot; HDD to a PS2 Slim?<br />
+I cant find any tutorials or anything, just a few threads on other forums. I have found out that there is two things called HD ComBo and HD Connect. Is it possible to connect without those? I managed to find info on that aswell and I read in 1 thread that you had to solder 39!!...<br />
+<br />
+<a href="https://www.psx-place.com/threads/ps2-slim-internal-hdd.24740/" class="internalLink">PS2 Slim Internal HDD</a>]]></content:encoded>
+      <slash:comments>17</slash:comments>
+    </item>
+    <item>
+      <title>Quick question about updating from HFW 4.84.2 to HFW 4.85.2</title>
+      <pubDate>Wed, 18 Sep 2019 20:08:04 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/quick-question-about-updating-from-hfw-4-84-2-to-hfw-4-85-2.26266/</link>
+      <guid>https://www.psx-place.com/threads/quick-question-about-updating-from-hfw-4-84-2-to-hfw-4-85-2.26266/</guid>
+      <author>invalid@example.com (mig-slzr)</author>
+      <dc:creator>mig-slzr</dc:creator>
+      <content:encoded><![CDATA[Hey, <br />
+So I am currently running my super slim ps3 on HFW 4.84.2 and I&#039;m willing to get on 4.85.1, to play on MGSV:TPP online and Sniper Elite 3 DLC&#039;s. <br />
+If I do the update, will I still keep multiman, HEN Enabler and all the jailbreak related stuff I have, such as games, homebrews or will I have to redo it all? If I have to do it all again I&#039;ll stay on my current firmware.<br />
+<br />
+Thank you in advance <br />
+Mig]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>I'm being driven insane... (OPL with HDD)</title>
+      <pubDate>Wed, 18 Sep 2019 20:00:29 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/im-being-driven-insane-opl-with-hdd.26195/</link>
+      <guid>https://www.psx-place.com/threads/im-being-driven-insane-opl-with-hdd.26195/</guid>
+      <author>invalid@example.com (Deli295)</author>
+      <dc:creator>Deli295</dc:creator>
+      <content:encoded><![CDATA[Hi, so I just got my 3rd party adapter for my PS2 (SCPH-5006), I also got component cables and plugged and set up a 500gb drive with my backups. But there&#039;s a very annoying problem with most games: they don&#039;t play correctly, and every few frames (whenever it wants really) the game decides to stutter. I thought this could only happen when playing from USB and in cutscenes, but in my case it happens during gameplay too, making gaming pretty much unplayable. Hope anyone can help, thanks from...<br />
+<br />
+<a href="https://www.psx-place.com/threads/im-being-driven-insane-opl-with-hdd.26195/" class="internalLink">I&#039;m being driven insane... (OPL with HDD)</a>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>What's this? (Strange game disc)</title>
+      <pubDate>Wed, 18 Sep 2019 19:57:36 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/whats-this-strange-game-disc.26273/</link>
+      <guid>https://www.psx-place.com/threads/whats-this-strange-game-disc.26273/</guid>
+      <author>invalid@example.com (Nikolas233)</author>
+      <dc:creator>Nikolas233</dc:creator>
+      <content:encoded><![CDATA[Hi, i recently bought a ps1 gran turismo copy, but it has a strange thing on the center. However, it works like a charm and i had 0 problems<br />
+
+
+	<a href="https://www.psx-place.com/attachments/20107/" target="_blank">View attachment 20107</a>]]></content:encoded>
+      <slash:comments>23</slash:comments>
+    </item>
+    <item>
+      <title>(SOLVED) Downgrading from 4.85 to 4.84</title>
+      <pubDate>Wed, 18 Sep 2019 19:50:43 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/solved-downgrading-from-4-85-to-4-84.26255/</link>
+      <guid>https://www.psx-place.com/threads/solved-downgrading-from-4-85-to-4-84.26255/</guid>
+      <author>invalid@example.com (PolybiusOfficial)</author>
+      <dc:creator>PolybiusOfficial</dc:creator>
+      <content:encoded><![CDATA[Hi. I have a flashed 4.85 CFW Overflow console.<br />
+<br />
+I have Toggle QA Flag.<br />
+<br />
+And I have selected to downgrade REBUG 4.84.2 REX.<br />
+<br />
+And then, when all finished...<br />
+<br />
+--<br />
+<br />
+I have downgraded to <b>4.65</b> OFW.<br />
+I have downloaded REBUG from official website (rebug.me)<br />
+<br />
+--<br />
+<br />
+What happened?]]></content:encoded>
+      <slash:comments>21</slash:comments>
+    </item>
+    <item>
+      <title>3.55 ftp speed for higher frimware</title>
+      <pubDate>Wed, 18 Sep 2019 19:04:43 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/3-55-ftp-speed-for-higher-frimware.26170/</link>
+      <guid>https://www.psx-place.com/threads/3-55-ftp-speed-for-higher-frimware.26170/</guid>
+      <author>invalid@example.com (zainamjad323)</author>
+      <dc:creator>zainamjad323</dc:creator>
+      <content:encoded><![CDATA[Hello to all<br />
+I have a question why ps3 3.55 ftp speed is double then latest frimware<br />
+What the difference between 3.55 and higher frimware <br />
+Last time i try to make my own cfw i cant figure it out difference and 3.55 had more cool feature like restore database not shown after power cut <br />
+Please help me to figure it out<br />
+<br />
+Sent from my SM-G935T using Tapatalk]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>PS3 PRO MOD Release/Information Thread</title>
+      <pubDate>Wed, 18 Sep 2019 18:56:13 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/ps3-pro-mod-release-information-thread.14641/</link>
+      <guid>https://www.psx-place.com/threads/ps3-pro-mod-release-information-thread.14641/</guid>
+      <author>invalid@example.com (kozarovv)</author>
+      <dc:creator>kozarovv</dc:creator>
+      <content:encoded><![CDATA[<div style="text-align: center"><b><span style="font-size: 26px">PS3 PRO MOD by LuanTeles</span></b><br />
+<span style="font-size: 18px"><br />
+<b>
+
+	<a href="https://www.psx-place.com/attachments/9625/" target="_blank">View attachment 9625</a>
+	
+ </b></span>&#8203;</div><span style="font-size: 18px"><br />
+<b>Installation:</b><br />
+</span><br />
+Mount the dev_blind using FTP or Multiman<br />
+1) Transfer the all the PS3 PRO files to its respective folders dev_blind for the Modded system files<br />
+and dev_hdd0 files (Theme,* Packages, *Custom RetroArch, PSP Launcher, PKG Launcher, Multiman Icons)<br />
+2) Only For PT-BR Users copy the content inside the Folder PT-BR for (XMBM+ 2K17 PT-BR + WebMan...<br />
+<br />
+<a href="https://www.psx-place.com/threads/ps3-pro-mod-release-information-thread.14641/" class="internalLink">PS3 PRO MOD Release/Information Thread</a>]]></content:encoded>
+      <slash:comments>691</slash:comments>
+    </item>
+    <item>
+      <title>Tutorial - NEC/TOKIN Capacitors Replacement - YLOD FIX</title>
+      <pubDate>Wed, 18 Sep 2019 18:43:49 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/tutorial-nec-tokin-capacitors-replacement-ylod-fix.25260/</link>
+      <guid>https://www.psx-place.com/threads/tutorial-nec-tokin-capacitors-replacement-ylod-fix.25260/</guid>
+      <author>invalid@example.com (Naked_Snake1995)</author>
+      <dc:creator>Naked_Snake1995</dc:creator>
+      <content:encoded><![CDATA[<span style="font-size: 18px"><span style="color: #b30000">
+
+	<a href="https://www.psx-place.com/attachments/19118/" target="_blank">View attachment 19118</a>
+	
+ <br />
+<br />
+<b>*INTRODUCTION</b><br />
+</span></span><br />
+<span style="color: #000000"><span style="font-size: 15px"><b>Introduced in 2006, the PlayStation3 its perhaps one of the best systems to own to date, the vast of PlayStation3 software to explore, Blu-Ray and 3D Blu-Ray Movies, PlayStation and PlayStation2 Backwards Compatibility, Linux and many other features, the PlayStation3 its a swiss army knife for any PlayStation veteran and newcomers alike.</b><br />
+</span></span>...<br />
+<br />
+<a href="https://www.psx-place.com/threads/tutorial-nec-tokin-capacitors-replacement-ylod-fix.25260/" class="internalLink">Tutorial - NEC/TOKIN Capacitors Replacement - YLOD FIX</a>]]></content:encoded>
+      <slash:comments>392</slash:comments>
+    </item>
+    <item>
+      <title>IRISMAN + webMAN MOD - Updated with 4.85 CEX Support</title>
+      <pubDate>Wed, 18 Sep 2019 18:11:12 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/irisman-webman-mod-updated-with-4-85-cex-support.26162/</link>
+      <guid>https://www.psx-place.com/threads/irisman-webman-mod-updated-with-4-85-cex-support.26162/</guid>
+      <author>invalid@example.com (STLcardsWS)</author>
+      <dc:creator>STLcardsWS</dc:creator>
+      <content:encoded><![CDATA[<div style="text-align: center">Developer<b> <a href="https://www.psx-place.com/members/89/" class="username" data-user="89, @aldostools">@aldostools</a> </b>recently updated two great projects of his wit<a href="https://www.psx-place.com/threads/4-85-ofw-live-4-85-1-hfw-hybrid-firmware-released-advised-to-stay-on-4-84-for-now.25911/" class="internalLink">h 4.85 firmware (cex)</a> support. When the releases appeared over at <a href="http://brewology.com/" target="_blank" class="externalLink" rel="nofollow">brewology.com</a> they were added to the 4.85 Update/CFW thread &gt;...&#8203;</div><br />
+<a href="https://www.psx-place.com/threads/irisman-webman-mod-updated-with-4-85-cex-support.26162/" class="internalLink">IRISMAN + webMAN MOD - Updated with 4.85 CEX Support</a>]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+    <item>
+      <title>help &gt; get *more* current status using web ?</title>
+      <pubDate>Wed, 18 Sep 2019 18:00:34 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/help-get-more-current-status-using-web.26277/</link>
+      <guid>https://www.psx-place.com/threads/help-get-more-current-status-using-web.26277/</guid>
+      <author>invalid@example.com (zosky)</author>
+      <dc:creator>zosky</dc:creator>
+      <content:encoded><![CDATA[recently got a CFW capable slim and it&#039;s been fun. <i>thanks for all the TUTs</i>... now i&#039;m stuck making this thing play nice with our smartHome.<br />
+<br />
+i see a lot of useful endpoints in webManMod&#039;s pages, like mounting, unmount &amp; playing. i can also poll for the current disk by trying &quot;<a href="http://myPS3/" target="_blank" class="externalLink" rel="nofollow">http://myPS3/</a><i>dev_bdvd/PS3_GAME/ICON0.PNG&quot; ... timeout = system off / 404 = no disk</i><br />
+<b><br />
+where i need some advice please.</b><br />
+- how to <b>find the current user</b> &amp; switching to another profile<br />
+-...<br />
+<br />
+<a href="https://www.psx-place.com/threads/help-get-more-current-status-using-web.26277/" class="internalLink">help &gt; get *more* current status using web ?</a>]]></content:encoded>
+    </item>
+    <item>
+      <title>please help</title>
+      <pubDate>Wed, 18 Sep 2019 17:56:48 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/please-help.26274/</link>
+      <guid>https://www.psx-place.com/threads/please-help.26274/</guid>
+      <author>invalid@example.com (karel123)</author>
+      <dc:creator>karel123</dc:creator>
+      <content:encoded><![CDATA[hi i have a problem unwanted i am spoofed 4.85 hen to 4.85 and now i can&#039;t turn on ps3 (slim) green light but nothing shows up on tv]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>Vita Account Manager</title>
+      <pubDate>Wed, 18 Sep 2019 16:57:13 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/vita-account-manager.26017/</link>
+      <guid>https://www.psx-place.com/threads/vita-account-manager.26017/</guid>
+      <author>invalid@example.com (T.D.)</author>
+      <dc:creator>T.D.</dc:creator>
+      <content:encoded><![CDATA[T.D. submitted a new resource:<br />
+<br />
+<a href="https://www.psx-place.com/resources/vita-account-manager.867/" class="internalLink">Vita Account Manager</a> - Switch between multiple PSN/SEN accounts. Handle execution history and WLANs. Dump console IDs.<br />
+<br />
+
+
+
+<div class="bbCodeBlock bbCodeQuote">
+	<aside>
+		
+		<blockquote class="quoteContainer"><div class="quote"># Vita Account Manager (c) 2019 by &quot;windsurfer1122&quot;<br />
+Switch between multiple PSN/SEN accounts on a PS Vita or PS TV.<br />
+Handle execution history.<br />
+Dump console IDs.<br />
+Save and restore WLAN settings.<br />
+<br />
+## Features<br />
+* Save the current account...</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div><a href="https://www.psx-place.com/threads/vita-account-manager.26017/" class="internalLink">Vita Account Manager</a>]]></content:encoded>
+      <slash:comments>6</slash:comments>
+    </item>
+    <item>
+      <title>PS3 hard crashes randomly while playing PS2 games.</title>
+      <pubDate>Wed, 18 Sep 2019 16:49:12 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/ps3-hard-crashes-randomly-while-playing-ps2-games.26276/</link>
+      <guid>https://www.psx-place.com/threads/ps3-hard-crashes-randomly-while-playing-ps2-games.26276/</guid>
+      <author>invalid@example.com (MikeZorD)</author>
+      <dc:creator>MikeZorD</dc:creator>
+      <content:encoded><![CDATA[Hello, I&#039;m new here and to the ps3 jailbreak scene. As I&#039;ve only recently did it to my ps3 just this summer.<br />
+<br />
+Well I will disclose that my ps3 has a problem with booting, as it sometimes shuts down when I try to boot, giving me 3 beeps and a blinking red light, even before the blue light from the blue ray reader comes up. I just force myself through it until it gives in and boots normaly. I&#039;ve tried most things to try and fix this problem but to no avail, probably would have to replace the...<br />
+<br />
+<a href="https://www.psx-place.com/threads/ps3-hard-crashes-randomly-while-playing-ps2-games.26276/" class="internalLink">PS3 hard crashes randomly while playing PS2 games.</a>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hfw 4.85 managunz, webman dont work</title>
+      <pubDate>Wed, 18 Sep 2019 16:35:31 +0000</pubDate>
+      <link>https://www.psx-place.com/threads/hfw-4-85-managunz-webman-dont-work.26272/</link>
+      <guid>https://www.psx-place.com/threads/hfw-4-85-managunz-webman-dont-work.26272/</guid>
+      <author>invalid@example.com (Michal Kostka)</author>
+      <dc:creator>Michal Kostka</dc:creator>
+      <content:encoded><![CDATA[Helou Guyz,.I have problem. I was install on PS3 Slim ofw version 4.85 same version of hfw. Install Han, Hen enabler. And when i install managunz or webman, i have on both application black screen freezing. Have someone some idea?]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+  </channel>
+</rss>
